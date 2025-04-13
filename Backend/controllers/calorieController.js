@@ -15,6 +15,7 @@ const createCalorieLog = async (req, res) => {
       fat,
       mealType,
     });
+    
 
     await log.save();
     res.json(log);

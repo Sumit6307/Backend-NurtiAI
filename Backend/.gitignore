@@ -1,12 +1,3 @@
-# Node modules
 node_modules/
-
-# Environment variables
+package-lock.json
 .env
-
-# Logs
-*.log
-
-# OS-specific
-.DS_Store
-Thumbs.db
